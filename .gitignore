@@ -1,0 +1,20 @@
+# Data and derived artifacts (large; built from scripts)
+datasets/
+clusters/
+cache/
+results/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+.cursor/
+.claude/
