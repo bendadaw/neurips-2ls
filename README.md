@@ -1,7 +1,9 @@
 # Two-Level Softmax Sampling Done Right
 
-Code accompanying the anonymous NeurIPS submission
+Code for our NeurIPS 2026 paper
 **"Two-Level Softmax Sampling Done Right: Correcting Bias from Size Imbalance and Dispersion."**
+
+**Authors:** Walid Bendada, Guillaume Salha-Galvan
 
 This repository reproduces every figure and table in the paper. All experiments
 run on CPU; no GPU is required.
